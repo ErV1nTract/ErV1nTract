@@ -12,10 +12,10 @@
 <h2 align="center">Shortly about me</h2>
 <p align="center">
   I'm a Java developer with a huge desire to constantly learn and grow. At the moment, my main task is creating plugins for the popular Bukkit platform. In the near future, I plan to master the Spring Framework and other programming languages like TypeScript and Python. 😊
-</p>
+</p><br>
 
-<details align="center">
-<summary><h2><img src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/200.webp?cid=ecf05e47r9ozk5khibgfzgfbh99jqddesxkkmywpn6v5ljb6&ep=v1_gifs_search&rid=200.webp&ct=g" width="20px"> More about me</h3></summary>
+<h2 align="center"><img src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/200.webp?cid=ecf05e47r9ozk5khibgfzgfbh99jqddesxkkmywpn6v5ljb6&ep=v1_gifs_search&rid=200.webp&ct=g" width="20px"> The knowledge I possess</h3>
+<p>
 
 <h3 align="center">Languages I Know</h3>
 <div align="center">
@@ -51,7 +51,6 @@
 </div><br>
 
 <div alight="center"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjd3azV0cjJ3N21wczJrZzBseWQwdG9tYWNoZnBzMXVncm1hZGs0eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.webp" width="100px"></div>
-</details>
 
 <!-- This code has been commented out because it is not available in public repositories. -->
 <!-- <h2 align="center">Used languages</h2> 
