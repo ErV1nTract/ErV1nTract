@@ -63,6 +63,7 @@
 <div align="center">
   <a href="https://wakatime.com/@erv1ntract">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=erv1ntract&layout=compact&theme=dark" alt="Weekly activity">
+    <h6>500+ Hours on Python</h6>
   </a>
 
   <p align="center">
