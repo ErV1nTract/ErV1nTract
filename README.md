@@ -47,7 +47,8 @@
   <code><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"></code>
   <code><img src="https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff"></code>
   <code><img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff"></code>
-  <code><img src="https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=f0502f"></code>
+  <code><img src="https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=f0502f"></code><br>
+  <code><img src="https://wakatime.com/badge/user/bdb198a8-a62d-4126-b328-4cff6fb4fb52.svg"></code>
 </div><br>
 
 <div alight="center"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjd3azV0cjJ3N21wczJrZzBseWQwdG9tYWNoZnBzMXVncm1hZGs0eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.webp" width="100px"></div>
